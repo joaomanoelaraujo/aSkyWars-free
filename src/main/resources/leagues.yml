@@ -1,0 +1,16 @@
+leagues:
+  3:
+    tag: '&e{symbol} - {name}'
+    symbol: '✺'
+    name: 'Divisão 3'
+    points: 6000
+  2:
+    tag: '&a{symbol} - {name}'
+    symbol: '✻'
+    name: 'Divisão 2'
+    points: 2000
+  1:
+    tag: '&7{symbol} - {name}'
+    symbol: '❄'
+    name: 'Divisão 1'
+    points: 0

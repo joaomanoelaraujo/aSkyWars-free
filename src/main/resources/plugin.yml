@@ -1,0 +1,7 @@
+author: D4RKK
+name: aSkyWars
+version: 1.0
+depend: [aCore]
+website: www.aetherplugins.shop
+
+main: ${main}

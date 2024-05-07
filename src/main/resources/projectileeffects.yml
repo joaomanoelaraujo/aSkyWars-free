@@ -1,0 +1,28 @@
+corações:
+  # ID único, não utilize IDs repetidos.
+  id: 1
+  coins: 5000.0
+  cash: 25
+  rarity: RARE
+  permission: ''
+  name: 'Hearts'
+  icon: '38 : 1'
+  particle: HEART
+chamas:
+  id: 2
+  coins: 10000.0
+  cash: 35
+  rarity: EPIC
+  permission: ''
+  name: 'Flames'
+  icon: 'BLAZE_POWDER : 1'
+  particle: FLAME
+fumaça:
+  id: 3
+  coins: 15000.0
+  cash: 75
+  rarity: DIVINE
+  permission: ''
+  name: 'Smoke'
+  icon: '259 : 1'
+  particle: SMOKE_NORMAL

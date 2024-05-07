@@ -1,0 +1,40 @@
+blood_explosion:
+  id: 1
+  coins: 5000.0
+  cash: 50
+  rarity: RARE
+  permission: 'role.vip'
+  name: 'Bloody Explosion'
+  icon: 'REDSTONE : 1 : desc>&8Kill Effect'
+firework:
+  id: 2
+  coins: 2500.0
+  cash: 25
+  rarity: COMMON
+  permission: ''
+  name: 'Fireworks'
+  icon: 'FIREWORK : 1 : desc>&8Kill Effect'
+humantorch:
+  id: 3
+  coins: 1000.0
+  cash: 35
+  rarity: RARE
+  permission: ''
+  name: 'Human Torch'
+  icon: 'BLAZE_POWDER : 1 : desc>&8Kill Effect'
+headrocket:
+  id: 4
+  coins: 1000.0
+  cash: 35
+  rarity: RARE
+  permission: ''
+  name: 'Head Rocket'
+  icon: 'SKULL_ITEM:3 : 1 : desc>&8Kill Effect'
+finalsmash:
+  id: 5
+  coins: 15000.0
+  cash: 75
+  rarity: DIVINE
+  permission: ''
+  name: 'Final Smash'
+  icon: 'ARMOR_STAND : 1 : desc>&8Kill Effect'

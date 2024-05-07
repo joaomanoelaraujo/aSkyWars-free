@@ -1,0 +1,100 @@
+bees:
+  # ID único, não utilize IDs repetidos.
+  id: 1
+  name: 'Bee!'
+  rarity: EPIC
+  permission: ''
+  icon: 'SKULL_ITEM:3 : 1 : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODg2YTUwOWZmM2NkNDcxZjFiNDI4YTE5NGI2NzExNDcwYTU0NzczZTVkZTZlZTA3ZjdlNjAxY2M1ZTc1YTIwMCJ9fX0='
+  coins: 10000.0
+  cash: 25
+  url: 'https://i.ibb.co/k9NBG4g/image.png'
+chicken:
+  # ID único, não utilize IDs repetidos.
+  id: 2
+  name: 'Chicken'
+  rarity: EPIC
+  permission: ''
+  icon: 'SKULL_ITEM:3 : 1 : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGM1YmJmZDI1NDQwMmQ4YmM5ZjAwNWQzMTJlNTEwOGJlYjc0MDdkYzdiYzk1ODM5ODQwOTRjYjFhMDNiYzlhMSJ9fX0='
+  coins: 10000.0
+  cash: 25
+  url: 'https://i.ibb.co/Jkc5trd/image.png'
+sniper:
+  # ID único, não utilize IDs repetidos.
+  id: 3
+  name: 'Sniper!'
+  rarity: EPIC
+  permission: ''
+  icon: 'BOW : 1'
+  coins: 10000.0
+  cash: 25
+  url: 'https://i.ibb.co/s90j1wk/image.png'
+monsters:
+  # ID único, não utilize IDs repetidos.
+  id: 4
+  name: 'Monsters'
+  rarity: EPIC
+  permission: ''
+  icon: 'SKULL_ITEM:3 : 1 : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2QxZjE0YjFkYmIxNDhjYTRjNjIzZTNhNDAwYzcwNjFlODI5NWE3MzQ0NDA0NTFmMmYwMGFiMmFjYmM5MGZiYiJ9fX0='
+  coins: 10000.0
+  cash: 25
+  url: 'https://i.ibb.co/xC7VK9F/image.png'
+snowman:
+  # ID único, não utilize IDs repetidos.
+  id: 5
+  name: 'SnowMan!'
+  rarity: EPIC
+  permission: ''
+  icon: '86 : 1'
+  coins: 10000.0
+  cash: 25
+  url: 'https://i.ibb.co/znCYwyh/image.png'
+snipernatalino:
+  # ID único, não utilize IDs repetidos.
+  id: 6
+  name: 'Christmas Sniper!'
+  rarity: EPIC
+  permission: ''
+  icon: 'SKULL_ITEM:3 : 1 : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMThmMzRhNWE2YjZhOTRlNzI4MjNkNmVkNGJmYTBiMmIzMmU4M2Y4N2VjZjg2MmNkN2ZkZTE4NzA5ZmJhZjc3NCJ9fX0='
+  coins: 10000.0
+  cash: 25
+  url: 'https://i.ibb.co/s90j1wk/image.png'
+fulltummy:
+  # ID único, não utilize IDs repetidos.
+  id: 7
+  name: 'Full Tummy'
+  rarity: EPIC
+  permission: ''
+  icon: 'SKULL_ITEM:3 : 1 : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjUwMmUzZmMxYWYxYTk5Mjg5NDUyNDY5MTk4YjJlNTU2NGQ1NGE1ODkxZTA0NTExOTY1NGY0ZGFkYjQwZjllMiJ9fX0='
+  coins: 10000.0
+  cash: 25
+  url: 'https://i.ibb.co/r3DQJCZ/image.png'
+byebye:
+  # ID único, não utilize IDs repetidos.
+  id: 8
+  name: 'Bye Bye'
+  rarity: EPIC
+  permission: ''
+  icon: '288 : 1'
+  coins: 10000.0
+  cash: 25
+  url: 'https://i.ibb.co/7jkhzD6/image.png'
+fished:
+  # ID único, não utilize IDs repetidos.
+  id: 9
+  name: 'Fished XD'
+  rarity: EPIC
+  permission: ''
+  icon: '346 : 1'
+  coins: 10000.0
+  cash: 25
+  url: 'https://i.ibb.co/bKXM5q0/image.png'
+snowball:
+  # ID único, não utilize IDs repetidos
+  id: 10
+  name: 'Snowball'
+  rarity: EPIC
+  permission: ''
+  icon: '332 : 1'
+  coins: 10000.0
+  cash: 25
+  url: 'https://i.ibb.co/4Y0kFDT/image.png'

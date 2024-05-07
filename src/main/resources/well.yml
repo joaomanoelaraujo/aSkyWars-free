@@ -1,0 +1,133 @@
+title: 'Soul Well'
+rows: 6
+coins: 250
+settings:
+  ja-possui: '&aYou already own {name}&a and received &6{coins} &7coins'
+  recebeu: '&aYou received {name}&a in the &bSoul Well!'
+winupgrades:
+  1:
+    requires: 0
+    name: 'Xezbeth s Luck I'
+    amount: 1
+    price: 2500
+  2:
+    requires: 1
+    name: 'Xezbeth s Luck II'
+    amount: 2
+    price: 5000
+  3:
+    requires: 2
+    name: 'Xezbeth s Luck III'
+    amount: 3
+    price: 7500
+  end:
+    requires: 3
+    name: 'Xezbeth s Luck IV'
+    amount: 3
+    price: 7500
+maxupgrades:
+  1:
+    requires: 100
+    name: 'Soul Limit (Level I)'
+    amount: 130
+    price: 50000
+  2:
+    requires: 130
+    name: 'Soul Limit (Level II)'
+    amount: 160
+    price: 100000
+  3:
+    requires: 160
+    name: 'Soul Limit (Level III)'
+    amount: 190
+    price: 150000
+  4:
+    requires: 190
+    name: 'Soul Limit (Level IV)'
+    amount: 220
+    price: 200000
+  5:
+    requires: 220
+    name: 'Soul Limit (Level V)'
+    amount: 250
+    price: 250000
+  6:
+    requires: 250
+    name: 'Soul Limit (Level VI)'
+    amount: 280
+    price: 300000
+  7:
+    requires: 280
+    name: 'Soul Limit (Level VII)'
+    amount: 310
+    price: 350000
+  8:
+    requires: 310
+    name: 'Soul Limit (Level VIII)'
+    amount: 340
+    price: 400000
+  9:
+    requires: 340
+    name: 'Soul Limit (Level VIV)'
+    amount: 370
+    price: 450000
+  10:
+    requires: 370
+    name: 'Soul Limit (Level X)'
+    amount: 400
+    price: 500000
+  11:
+    requires: 400
+    name: 'Soul Limit (Level XI)'
+    amount: 430
+    price: 550000
+  12:
+    requires: 430
+    name: 'Soul Limit (Level XII)'
+    amount: 460
+    price: 600000
+  13:
+    requires: 460
+    name: 'Soul Limit (Level XIII)'
+    amount: 490
+    price: 650000
+  14:
+    requires: 490
+    name: 'Soul Limit (Level XIV)'
+    amount: 520
+    price: 700000
+  15:
+    requires: 520
+    name: 'Soul Limit (Level XV)'
+    amount: 550
+    price: 750000
+  16:
+    requires: 550
+    name: 'Soul Limit (Level XVI)'
+    amount: 580
+    price: 800000
+  17:
+    requires: 580
+    name: 'Soul Limit (Level XVII)'
+    amount: 610
+    price: 850000
+  18:
+    requires: 610
+    name: 'Soul Limit (Level XVIII)'
+    amount: 640
+    price: 900000
+  19:
+    requires: 640
+    name: 'Soul Limit (Level XVIV)'
+    amount: 670
+    price: 950000
+  20:
+    requires: 670
+    name: 'Soul Limit (Level XX)'
+    amount: 700
+    price: 1000000
+  end:
+    requires: 700
+    name: 'Soul Limit (Level MAX)'
+    amount: 700
+    price: 1000000

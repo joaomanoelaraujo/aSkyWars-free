@@ -1,0 +1,44 @@
+# ID único, não utilize IDs repetidos.
+id: 2
+name: 'Enchanter'
+rarity: RARE
+permission: ''
+# Lista de slots que irão ser os padrões dos itens.
+slots: [1, 2, 3]
+icon: 'BOOKSHELF : 1 : desc>&7{items}'
+levels:
+  # Esse número representa o nível do kit
+  1:
+    name: 'Enchanter I'
+    coins: 10000.0
+    cash: 25
+    items:
+      - 'ENCHANTMENT_TABLE : 1'
+      - 'EXP_BOTTLE : 3'
+    description: '&71 Enchantment Table\n&73 EXP BOTTLE'
+  2:
+    name: 'Enchanter II'
+    coins: 5000.0
+    cash: 25
+    items:
+      - 'ENCHANTMENT_TABLE : 1'
+      - 'EXP_BOTTLE : 6'
+    description: '&71 Enchantment Table\n&76 EXP BOTTLE'
+  3:
+    name: 'Enchanter III'
+    coins: 5000.0
+    cash: 25
+    items:
+      - 'ENCHANTMENT_TABLE : 1'
+      - 'EXP_BOTTLE : 12'
+      - 'ANVIL : 1'
+    description: '&71 Enchantment Table\n&712 EXP BOTTLE\n&71 Bigorna'
+  4:
+    name: 'Enchanter IV'
+    coins: 5000.0
+    cash: 25
+    items:
+      - 'ENCHANTMENT_TABLE : 1'
+      - 'EXP_BOTTLE : 24'
+      - 'ANVIL : 1'
+    description: '&71 Enchantment Table\n&724 EXP BOTTLE\n&71 Bigorna'

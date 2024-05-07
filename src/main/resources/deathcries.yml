@@ -1,0 +1,188 @@
+anvil:
+  # ID único, não utilize IDs repetidos.
+  id: 1
+  coins: 5000.0
+  cash: 100
+  rarity: DIVINE
+  permission: 'role.mvpplus'
+  name: 'Anvil'
+  icon: 'ANVIL : 1'
+  sound: ANVIL_BREAK
+  volume: 1.0
+  speed: 1.0
+enderman:
+  id: 2
+  coins: 3000.0
+  cash: 75
+  rarity: EPIC
+  permission: 'role.vip'
+  name: 'Enderman'
+  icon: 'SKULL_ITEM:3 : 1 : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2E1OWJiMGE3YTMyOTY1YjNkOTBkOGVhZmE4OTlkMTgzNWY0MjQ1MDllYWRkNGU2YjcwOWFkYTUwYjljZiJ9fX0='
+  sound: ENDERMAN_DEATH
+  volume: 1.0
+  speed: 1.0
+aranha:
+  id: 3
+  coins: 3000.0
+  cash: 75
+  rarity: EPIC
+  permission: ''
+  name: 'Spider'
+  icon: 'SKULL_ITEM:3 : 1 : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Q1NDE1NDFkYWFmZjUwODk2Y2QyNThiZGJkZDRjZjgwYzNiYTgxNjczNTcyNjA3OGJmZTM5MzkyN2U1N2YxIn19fQ=='
+  sound: SPIDER_DEATH
+  volume: 1.0
+  speed: 1.0
+pigman:
+  id: 4
+  coins: 3000.0
+  cash: 75
+  rarity: EPIC
+  permission: ''
+  name: 'Pigman'
+  icon: 'SKULL_ITEM:3 : 1 : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzRlOWM2ZTk4NTgyZmZkOGZmOGZlYjMzMjJjZDE4NDljNDNmYjE2YjE1OGFiYjExY2E3YjQyZWRhNzc0M2ViIn19fQ=='
+  sound: ZOMBIE_PIG_DEATH
+  volume: 1.0
+  speed: 1.0
+uivo_de_lobo:
+  id: 5
+  coins: 5000.0
+  cash: 100
+  rarity: DIVINE
+  permission: 'role.mvpplus'
+  name: 'Wolf Howl'
+  icon: 'SKULL_ITEM:3 : 1 : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWRjNjQyOWNmYWJhY2YyMTFkZDNkYjI2YzVjYTdiNTk0MmRkODI1OTlmYmIxZDUzN2NmNzJlNDk1MmUyYzdiIn19fQ=='
+  sound: WOLF_HOWL
+  volume: 1.0
+  speed: 1.0
+morcego:
+  id: 7
+  coins: 2500.0
+  cash: 25
+  rarity: COMMON
+  permission: ''
+  name: 'Bat'
+  icon: 'SKULL_ITEM:3 : 1 : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjc2NjE5NjUyZmFmZWM5MGNlOThkZjUwMTNjNjNkYzZhNzc3NzZhYjI3ODczYjczZGFmYjJiNmJkZWIxODUifX19'
+  sound: BAT_DEATH
+  volume: 1.0
+  speed: 1.0
+villager:
+  id: 8
+  coins: 4000.0
+  cash: 75
+  rarity: EPIC
+  permission: 'role.mvp'
+  name: 'Villager'
+  icon: 'SKULL_ITEM:3 : 1 : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODIyZDhlNzUxYzhmMmZkNGM4OTQyYzQ0YmRiMmY1Y2E0ZDhhZThlNTc1ZWQzZWIzNGMxOGE4NmU5M2IifX19'
+  sound: VILLAGER_DEATH
+  volume: 1.0
+  speed: 1.0
+fogos_de_artificio:
+  id: 9
+  coins: 1500.0
+  cash: 25
+  rarity: COMMON
+  permission: ''
+  name: 'Fireworks'
+  icon: 'FIREWORK : 1'
+  sound: FIREWORK_LAUNCH
+  volume: 1.0
+  speed: 1.0
+porco:
+  id: 10
+  coins: 4000.0
+  cash: 75
+  rarity: EPIC
+  permission: 'role.mvp'
+  name: 'Pig'
+  icon: 'SKULL_ITEM:3 : 1 : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjIxNjY4ZWY3Y2I3OWRkOWMyMmNlM2QxZjNmNGNiNmUyNTU5ODkzYjZkZjRhNDY5NTE0ZTY2N2MxNmFhNCJ9fX0='
+  sound: PIG_DEATH
+  volume: 1.0
+  speed: 1.0
+ossos_caindo:
+  id: 11
+  coins: 5000.0
+  cash: 100
+  rarity: DIVINE
+  permission: 'role.mvpplus'
+  name: 'Falling Bones'
+  icon: 'BONE : 1'
+  sound: SKELETON_DEATH
+  volume: 1.0
+  speed: 1.0
+rage:
+  id: 12
+  coins: 4000.0
+  cash: 75
+  rarity: EPIC
+  permission: 'role.mvp'
+  name: 'Rage'
+  icon: 'ROTTEN_FLESH : 1'
+  sound: HORSE_DEATH
+  volume: 1.0
+  speed: 0.5
+portal:
+  id: 13
+  coins: 5000.0
+  cash: 100
+  rarity: DIVINE
+  permission: 'role.mvpplus'
+  name: 'Portal'
+  icon: 'OBSIDIAN : 1'
+  sound: PORTAL_TRAVEL
+  volume: 1.0
+  speed: 1.2
+mugido:
+  id: 14
+  coins: 4000.0
+  cash: 75
+  rarity: EPIC
+  permission: 'role.mvp'
+  name: 'Moo'
+  icon: 'SKULL_ITEM:3 : 1 : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWQ2YzZlZGE5NDJmN2Y1ZjcxYzMxNjFjNzMwNmY0YWVkMzA3ZDgyODk1ZjlkMmIwN2FiNDUyNTcxOGVkYzUifX19'
+  sound: COW_IDLE
+  volume: 1.0
+  speed: 1.0
+creeper:
+  id: 15
+  coins: 3000.0
+  cash: 75
+  rarity: EPIC
+  permission: ''
+  name: 'Creeper'
+  icon: 'SKULL_ITEM:3 : 1 : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjQyNTQ4MzhjMzNlYTIyN2ZmY2EyMjNkZGRhYWJmZTBiMDIxNWY3MGRhNjQ5ZTk0NDQ3N2Y0NDM3MGNhNjk1MiJ9fX0='
+  sound: CREEPER_DEATH
+  volume: 1.0
+  speed: 1.0
+slime:
+  id: 16
+  coins: 3000.0
+  cash: 75
+  rarity: EPIC
+  permission: ''
+  name: 'Slime'
+  icon: 'SLIME_BLOCK : 1'
+  sound: SLIME_ATTACK
+  volume: 1.0
+  speed: 1.0
+cave:
+  id: 17
+  coins: 4000.0
+  cash: 75
+  rarity: DIVINE
+  permission: ''
+  name: 'Dark Cave'
+  icon: '32 : 1'
+  sound: AMBIENCE_CAVE
+  volume: 1.0
+  speed: 1.0
+monkey:
+  id: 18
+  coins: 4000.0
+  cash: 75
+  rarity: DIVINE
+  permission: ''
+  name: 'Gorilla'
+  icon: 'SKULL_ITEM:3 : 1 : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjFlOTkzMzdkZGMyYzhkMTRjZjlmNTI3ZTk3MjI4NTEzMzU1OGM5NTM3NjVkZTRkZDVkN2E5MTlhOTg4ODIifX19'
+  sound: ZOMBIE_PIG_DEATH
+  volume: 1.0
+  speed: 0.5

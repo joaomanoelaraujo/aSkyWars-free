@@ -1,0 +1,38 @@
+# ID único, não utilize IDs repetidos.
+id: 4
+name: 'Paladin'
+rarity: DIVINE
+permission: ''
+# Lista de slots que irão ser os padrões dos itens.
+slots: [1]
+icon: 'DIAMOND_CHESTPLATE : 1 : desc>&7{items}'
+levels:
+  # Esse número representa o nível do kit
+  1:
+    name: 'Paladin I'
+    coins: 10000.0
+    cash: 50
+    items:
+      - 'DIAMOND_CHESTPLATE : 1 : enchant>PROTECTION_ENVIRONMENTAL:1'
+    description: '&71 Diamond Chestplate (Protection I)'
+  2:
+    name: 'Paladin II'
+    coins: 5000.0
+    cash: 25
+    items:
+      - 'DIAMOND_CHESTPLATE : 1 : enchant>PROTECTION_ENVIRONMENTAL:2'
+    description: '&71 Diamond Chestplate (Protection II)'
+  3:
+    name: 'Paladin III'
+    coins: 5000.0
+    cash: 25
+    items:
+      - 'DIAMOND_CHESTPLATE : 1 : enchant>PROTECTION_ENVIRONMENTAL:3'
+    description: '&71 Diamond Chestplate (Protection III)'
+  4:
+    name: 'Paladin IV'
+    coins: 5000.0
+    cash: 25
+    items:
+      - 'DIAMOND_CHESTPLATE : 1 : enchant>PROTECTION_ENVIRONMENTAL:4'
+    description: '&71 Diamond Chestplate (Protection IV)'

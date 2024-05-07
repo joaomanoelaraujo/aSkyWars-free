@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="aSkyWars-free">
+    <output-path>$PROJECT_DIR$/../../Builds</output-path>
+    <root id="archive" name="aSkyWars-free.jar">
+      <element id="module-output" name="aSkyWars-free" />
+    </root>
+  </artifact>
+</component>

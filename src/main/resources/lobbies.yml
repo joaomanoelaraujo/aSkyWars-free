@@ -1,0 +1,18 @@
+# Título do menu
+title: 'Lobbys'
+# Colunas do menu
+rows: 3
+items:
+  lobby1:
+    slot: 10
+    icon: 'INK_SACK:10 : 1 : name>&aSkyWars Lobby #1 : desc>&fPlayers: &7{players}/{maxplayers}\n \n{description}'
+    # Quantidade maxima de jogadores
+    max-players: 50
+    # Servidor para requisitar os dados
+    # Utilize o formato : IP:PORTA ; BungeeServerName
+    # BungeeServerName = nome do servidor na config.yml do bungeecord.
+    servername: '127.0.0.1:25566 ; skywars'
+messages:
+  description:
+    current: '&eYou are here.'
+    connect: '&eClick to enter!'

@@ -1,0 +1,315 @@
+preparations:
+  name: 'Preparations'
+  rarity: COMMON
+  permission: 'role.vip'
+  icon: 'BREAD : 1 : desc>&7True warriors go to battle\n&7prepared for combat.\n \n&8{description}'
+  levels:
+    1:
+      coins: 5000.0
+      cash: 25
+      description: 'You will not feel hungry during the match.'
+insanity:
+  name: 'Insanity'
+  rarity: EPIC
+  permission: ''
+  icon: 'WOOD_SWORD : 1 : hide>all : desc>&7After defeating an opponent you lose control\n&7and become increasingly stronger.\n \n&8After defeating an opponent you will receive\n&8{description}.'
+  levels:
+    1:
+      coins: 10000.0
+      cash: 50
+      level: 1
+      time: 60 # Time is in ticks (20 ticks = 1 second)
+      description: 'Strength I for 3 seconds'
+    2:
+      coins: 5000.0
+      cash: 25
+      level: 1
+      time: 100
+      description: 'Strength I for 5 seconds'
+    3:
+      coins: 5000.0
+      cash: 25
+      level: 2
+      time: 60
+      description: 'Strength II for 3 seconds'
+    4:
+      coins: 5000.0
+      cash: 25
+      level: 2
+      time: 100
+      description: 'Strength II for 5 seconds'
+archery_mastery:
+  name: 'Archery Mastery'
+  rarity: RARE
+  permission: ''
+  icon: 'BOW : 1 : desc>&7You have completely mastered the bows,\n&7your efficiency brings you unique advantages.\n \n&8You have a chance of {description}\n&8to retrieve your arrow when shooting it.'
+  levels:
+    1:
+      coins: 10000.0
+      cash: 50
+      percentage: 20
+      description: '20%'
+    2:
+      coins: 5000.0
+      cash: 25
+      percentage: 30
+      description: '30%'
+    3:
+      coins: 5000.0
+      cash: 25
+      percentage: 40
+      description: '40%'
+    4:
+      coins: 5000.0
+      cash: 25
+      percentage: 50
+      description: '50%'
+sorcerer:
+  name: 'Sorcerer'
+  rarity: COMMON
+  permission: 'role.mvp'
+  icon: 'EXP_BOTTLE : 1 : desc>&7You are a sorcerer with an ability\n&7keen and worthy of notoriety.\n \n&8After defeating an opponent you will receive\n&8{description}.'
+  levels:
+    1:
+      coins: 5000.0
+      cash: 25
+      level: 1
+      description: '1 Level of EXP'
+    2:
+      coins: 5000.0
+      cash: 25
+      level: 2
+      description: '2 Levels of EXP'
+    3:
+      coins: 5000.0
+      cash: 25
+      level: 3
+      description: '3 Levels of EXP'
+    4:
+      coins: 5000.0
+      cash: 25
+      level: 4
+      description: '4 Levels of EXP'
+pyromaniac:
+  name: 'Pyromaniac'
+  rarity: RARE
+  permission: ''
+  icon: 'MAGMA_CREAM : 1 : desc>&7You love setting fire to your opponents,\n&7so you know a few tricks with fire.\n \n&8When hitting an opponent with an arrow, you\n&8have a chance of {description} of setting them on fire.'
+  levels:
+    1:
+      coins: 5000.0
+      cash: 25
+      percentage: 10
+      description: '10%'
+    2:
+      coins: 5000.0
+      cash: 25
+      percentage: 20
+      description: '20%'
+    3:
+      coins: 5000.0
+      cash: 25
+      percentage: 30
+      description: '30%'
+fall_resistant:
+  name: 'Fall Resistant'
+  rarity: EPIC
+  permission: ''
+  icon: 'FEATHER : 1 : desc>&7You have learned a technique that allows you\n&7to better control falls.\n \n&8{description}'
+  levels:
+    1:
+      coins: 10000.0
+      cash: 50
+      description: 'You will not receive fall damage.'
+end_master:
+  name: 'End Master'
+  rarity: EPIC
+  permission: ''
+  icon: 'ENDER_PEARL : 1 : desc>&7You are a master of the end lands,\n&7teleport calmly.\n \n&8The damage caused by end\n&8pearls will be reduced by {description}&8.'
+  levels:
+    1:
+      coins: 5000.0
+      cash: 25
+      percentage: 50
+      description: '50%'
+    2:
+      coins: 5000.0
+      cash: 25
+      percentage: 100
+      description: '100%'
+cool_in_combat:
+  name: 'Cool in Combat'
+  rarity: RARE
+  permission: 'role.mvpplus'
+  icon: 'YELLOW_FLOWER : 1 : desc>&7You are always focused and concentrated on\n&7combat with your opponents.\n \n&8After defeating an opponent you will receive\n&8{description}.'
+  levels:
+    1:
+      coins: 10000.0
+      cash: 50
+      level: 1
+      time: 100 # Time is in ticks (20 ticks = 1 second)
+      description: 'Regeneration I for 5 seconds'
+    2:
+      coins: 5000.0
+      cash: 25
+      level: 1
+      time: 200
+      description: 'Regeneration I for 10 seconds'
+    3:
+      coins: 5000.0
+      cash: 25
+      level: 2
+      time: 100
+      description: 'Regeneration II for 5 seconds'
+    4:
+      coins: 5000.0
+      cash: 25
+      level: 2
+      time: 200
+      description: 'Regeneration II for 10 seconds'
+revenge:
+  name: 'Revenge'
+  rarity: COMMON
+  permission: 'role.mvpp'
+  icon: 'TNT : 1 : desc>&7You dont give up easily, have a last\n&7chance to try to defeat your opponent.\n \n&8{description}'
+  levels:
+    1:
+      coins: 10000.0
+      cash: 50
+      description: 'After being defeated you cause an explosion.'
+occultist:
+  name: 'Occultist'
+  rarity: DIVINE
+  permission: 'role.vip'
+  icon: 'EYE_OF_ENDER : 1 : desc>&7You know some secrets about\n&7the end land.\n \n&8After defeating an opponent you have\n&8a chance of {description} of receiving an ender\n&8pearl.'
+  levels:
+    1:
+      coins: 10000.0
+      cash: 50
+      percentage: 25
+      description: '25%'
+    2:
+      coins: 5000.0
+      cash: 25
+      percentage: 50
+      description: '50%'
+    3:
+      coins: 5000.0
+      cash: 25
+      percentage: 75
+      description: '75%'
+luck_clover:
+  name: 'Luck Clover'
+  rarity: EPIC
+  permission: 'role.vip'
+  icon: 'WATER_LILY : 1 : desc>&7You are very lucky!\n \n&8After breaking a block you have\n&8a chance of {description} of receiving a golden\n&8apple from the debris.'
+  levels:
+    1:
+      coins: 10000.0
+      cash: 50
+      percentage: 5
+      description: '5%'
+    2:
+      coins: 5000.0
+      cash: 25
+      percentage: 7
+      description: '7%'
+    3:
+      coins: 5000.0
+      cash: 25
+      percentage: 10
+      description: '10%'
+armored:
+  name: 'Armored'
+  rarity: DIVINE
+  permission: ''
+  icon: 'DIAMOND_CHESTPLATE : 1 : desc>&7Who needs enchantment table?\n \n&8After every 2 kills your\n&8armor will receive 1 level of Protection\n&8up to the limit level of {description}.'
+  levels:
+    1:
+      coins: 10000.0
+      cash: 50
+      limit: 1
+      description: '1'
+    2:
+      coins: 5000.0
+      cash: 25
+      limit: 2
+      description: '2'
+    3:
+      coins: 5000.0
+      cash: 100
+      limit: 3
+      description: '3'
+rocket:
+  enabled: true
+  name: 'Rocket'
+  rarity: DIVINE
+  permission: ''
+  icon: 'FIREWORK : 1 : desc>&7Receive a rocket that boosts you\n&7upward whenever you need!'
+  levels:
+    1:
+      coins: 10000.0
+      cash: 50
+      delay: 45
+      description: '45s'
+    2:
+      coins: 5000.0
+      cash: 25
+      delay: 40
+      description: '40s'
+    3:
+      coins: 5000.0
+      cash: 100
+      delay: 35
+      description: '35s'
+    4:
+      coins: 10000.0
+      cash: 150
+      delay: 30
+      description: '30s'
+extra_life:
+  name: 'Extra Life'
+  rarity: RARE
+  permission: ''
+  icon: '260 : 1 : desc>&7Life wont be a problem! Receive\n&7extra heart containers to help you\n&7in your battle.'
+  levels:
+    1:
+      coins: 10000.0
+      cash: 50
+      extra_health: 1
+      description: '1 Extra Heart'
+    2:
+      coins: 5000.0
+      cash: 25
+      extra_health: 2
+      description: '2 Extra Hearts'
+headshot:
+  name: 'Headshot'
+  rarity: EPIC
+  permission: 'Headshot'
+  icon: 'FERMENTED_SPIDER_EYE : 1 : desc>&7Have a chance to give your enemy\n&7nausea when hitting an arrow\n&7in their head.'
+  levels:
+    1:
+      coins: 10000.0
+      cash: 50
+      level: 2
+      time: 200
+      percentage: 10
+      description: '10% Chance'
+    2:
+      coins: 15000.0
+      cash: 75
+      level: 2
+      time: 200
+      percentage: 20
+      description: '20% Chance'
+necromancer:
+  name: 'Necromancer'
+  rarity: DIVINE
+  permission: 'Necromancer'
+  icon: 'ROTTEN_FLESH : 1 : desc>&7A friendly Zombie\n&7will spawn when you die.'
+  levels:
+    1:
+      coins: 20000.0
+      cash: 75
+      description: '1 Zombie'

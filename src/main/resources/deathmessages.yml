@@ -1,0 +1,126 @@
+alien:
+  id: 1
+  name: 'Alien'
+  rarity: EPIC
+  permission: ''
+  icon: 'SKULL_ITEM:3 : 1 : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2RlN2I4YmFmNzg1ODdiNzQ0MjdlYjBjNzMxMzc0N2Y1OGM0MTgzMDVhMTQ3Mjc4Yjc3MzE1YTljOTdmZDkifX19'
+  coins: 10000.0
+  cash: 25
+  messages:
+    - '{name} &ewas abducted by {killer}'
+amongus:
+  id: 2
+  name: 'Among Us'
+  rarity: EPIC
+  permission: ''
+  icon: 'SKULL_ITEM:3 : 1 : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjdjMTRlYjg3ZGM2NDQ0YWU2MjVmMTIyY2YzYWU5NmZjOGEyODZhYmI2OWRjYzc4ZWU5NWNkNDQzMjMyYTA1YyJ9fX0='
+  coins: 15000.0
+  cash: 75
+  messages:
+    - '{name} &ewas killed by the impostor {killer}'
+    - '{name} &ewas killed by the impostor {killer} unexpectedly'
+alex:
+  id: 3
+  name: 'Alex Assassin'
+  rarity: EPIC
+  permission: ''
+  icon: 'SKULL_ITEM:3 : 1 : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjNiMDk4OTY3MzQwZGFhYzUyOTI5M2MyNGUwNDkxMDUwOWIyMDhlN2I5NDU2M2MzZWYzMWRlYzdiMzc1MCJ9fX0='
+  coins: 15000.0
+  cash: 75
+  messages:
+    - '{killer} &emade {name} &efall into alex assassins tale...'
+    - '{killer} &eused your powers alex against {name}'
+    - '{killer} &ehad no mercy to kill {name}'
+barbecue:
+  id: 4
+  name: 'Barbecue'
+  rarity: COMMON
+  permission: ''
+  icon: 'COOKED_BEEF : 1'
+  coins: 10000.0
+  cash: 25
+  messages:
+    - '{killer} &emade barbecue of {name}'
+    - '{killer} &eheated {name} &eso much he died!'
+cheating:
+  id: 5
+  name: 'Cheating'
+  rarity: RARE
+  permission: ''
+  icon: 'LAVA_BUCKET : 1'
+  coins: 12000.0
+  cash: 55
+  messages:
+    - '{killer} &ekilled {name} &ewith his cheating tricks'
+fight:
+  id: 6
+  name: 'Fight'
+  rarity: RARE
+  permission: ''
+  icon: 'IRON_SWORD : 1 : hide>all'
+  coins: 15000.0
+  cash: 75
+  messages:
+    - '{killer} &ewon the fight against {name}'
+    - '{killer} &ecalled {name} &etrash!'
+    - '{name} &ewas knocked out by {killer}'
+sorcerer:
+  id: 7
+  name: 'Sorcerer'
+  rarity: EPIC
+  permission: ''
+  icon: '379 : 1'
+  coins: 10000.0
+  cash: 25
+  messages:
+    - '{killer} &emade spells to kill {name}'
+    - '{killer} &eused powers to manage to kill {name}'
+    - '{name} &ecould not withstand the spells of {killer}'
+counterstrike:
+  id: 8
+  name: 'Counter-Strike'
+  rarity: RARE
+  permission: ''
+  icon: '294 : 1'
+  coins: 10000.0
+  cash: 25
+  messages:
+    - '{name} &etook a headshot from {killer}'
+    - '{name} &etook a strike {killer}'
+    - '{killer} &edelivered a headshot to {name} &ewithout mercy.'
+distraction:
+  id: 9
+  name: 'Distraction'
+  rarity: RARE
+  permission: ''
+  icon: '86 : 1'
+  coins: 10000.0
+  cash: 25
+  messages:
+    - '{killer} &ekilled {name} &edistracted'
+    - '{name} &edied from so much scare from {killer}'
+    - '{name} &egot distracted and {killer} &ecaught him off guard!'
+scare:
+  id: 10
+  name: 'Scare'
+  rarity: COMMON
+  permission: ''
+  icon: '332 : 1'
+  coins: 10000.0
+  cash: 25
+  messages:
+    - '{name} &etook a scare and was killed by {killer}'
+    - '{name} &edied in a scary way by {killer}'
+    - '{name} &etook such a scare from {killer} &eso big he couldnt handle...'
+radiation:
+  id: 11
+  name: 'Radiation'
+  rarity: DIVINE
+  permission: ''
+  icon: 'INK_SACK:5 : 1'
+  coins: 10000.0
+  cash: 25
+  messages:
+    - '{name} &egot radiation from {killer} &eand died'
+    - '{name} &ecould not withstand the excessive radiation from {killer}'
+    - '{name} &ehad an extreme radiation done by {killer} &eand couldnt handle it, so he died.'

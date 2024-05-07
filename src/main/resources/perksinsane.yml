@@ -1,0 +1,58 @@
+luck_clover:
+  name: 'Luck Clover'
+  rarity: EPIC
+  permission: 'role.vip'
+  icon: 'WATER_LILY : 1 : desc>&7Youre a great lucky person!\n \n&8After breaking a block you have\n&8a chance of {description} of receiving a golden apple\n&8from the debris.'
+  levels:
+    1:
+      coins: 10000.0
+      cash: 50
+      percentage: 5
+      description: '5%'
+    2:
+      coins: 5000.0
+      cash: 25
+      percentage: 7
+      description: '7%'
+    3:
+      coins: 5000.0
+      cash: 25
+      percentage: 10
+      description: '10%'
+armored:
+  name: 'Armored'
+  rarity: DIVINE
+  permission: ''
+  icon: 'DIAMOND_CHESTPLATE : 1 : desc>&7Who needs enchantment table?\n \n&8After every 2 kills your\n&8armor will receive 1 level of Protection\n&8up to the limit level of {description}.'
+  levels:
+    1:
+      coins: 10000.0
+      cash: 50
+      limit: 1
+      description: '1'
+    2:
+      coins: 5000.0
+      cash: 25
+      limit: 2
+      description: '2'
+    3:
+      coins: 5000.0
+      cash: 100
+      limit: 3
+      description: '3'
+extra_life:
+  name: 'Extra Life'
+  rarity: RARE
+  permission: ''
+  icon: '260 : 1 : desc>&7Life wont be a problem! Receive\n&7extra heart containers to help you\n&7in your battle.'
+  levels:
+    1:
+      coins: 10000.0
+      cash: 50
+      extra_health: 1
+      description: '1 Extra Heart'
+    2:
+      coins: 5000.0
+      cash: 25
+      extra_health: 2
+      description: '2 Extra Hearts'
